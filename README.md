@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello, I'm Eric Okello Denis 👋
 
 I'm a Computer Engineer passionate about solving technical challenges through automation, robotics, embedded systems, and AI. I thrive on innovation and enjoy creating efficient, scalable solutions that impact industries and communities.
