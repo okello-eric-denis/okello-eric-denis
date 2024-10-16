@@ -4,7 +4,7 @@ I'm a Computer Engineer passionate about solving technical challenges through au
 
 ### 🔧 Technologies & Tools:
 - **Programming Languages**: JavaScript, Python, C, Java
-- **Frameworks**: Node.js, React.js, Vite, WordPress
+- **Frameworks and Libraries**: Next.js, Node.js, React.js, Vite, WordPress
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Automation Tools**: Selenium, Zapier, ActivePieces, Robomotion
 - **Embedded Systems**: Arduino, Raspberry Pi
