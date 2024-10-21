@@ -4,7 +4,7 @@ I'm a Computer Engineer passionate about solving technical challenges through so
 
 ### 🔧 Technologies & Tools:
 - **Programming Languages**: JavaScript, Python, C, Java
-- **Frameworks and Libraries**: Next.js, Node.js, React.js, Vite, WordPress
+- **Frameworks and Libraries**: Next.js, Node.js, React.js, React Native, Vite, WordPress
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Automation Tools**: Selenium, Zapier, ActivePieces, Robomotion
 - **Embedded Systems**: Arduino, Raspberry Pi
@@ -13,7 +13,6 @@ I'm a Computer Engineer passionate about solving technical challenges through so
 - **Bachelor's Degree in Computer Engineering** from Busitema University
 
 ### 🎯 Current Goals:
-- Learning more about software development and other technical skills
+- Learning more about software development.
 - Expanding expertise in Robotic Process Automation (RPA) and Automation
 - Developing embedded systems solutions for robotics
-
