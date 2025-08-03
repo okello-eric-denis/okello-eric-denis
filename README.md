@@ -14,5 +14,5 @@ I'm a Computer Engineer passionate about solving technical challenges through so
 
 ### 🎯 Current Goals:
 - Learning more about software development.
-- Expanding expertise in Robotic Process Automation (RPA) and Automation
+- Expanding expertise in Robotic Process Automation (RPA) and Automation, n8n.
 - Developing embedded systems solutions for robotics
