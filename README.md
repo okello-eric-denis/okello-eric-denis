@@ -1,4 +1,4 @@
-# Hello, I'm Eric Okello Denis 👋
+# Hello, I'm Eric Okello Denis 
 
 I'm a Computer Engineer passionate about solving technical challenges through software development, automation, robotics, embedded systems, and AI. I thrive on innovation and enjoy creating efficient, scalable solutions that impact industries and communities.
 
@@ -9,10 +9,10 @@ I'm a Computer Engineer passionate about solving technical challenges through so
 - **Automation Tools**: Selenium, n8n, Zapier, ActivePieces, Robomotion, UIPath
 - **Embedded Systems**: Arduino, Raspberry Pi
 
-### 📚 Education:
+### Education:
 - **Bachelor's Degree in Computer Engineering** from Busitema University
 
-### 🎯 Current Goals:
+### Current Goals:
 - Learning more about software development.
 - Expanding expertise in Robotic Process Automation (RPA) and Automation, n8n.
 - Developing embedded systems solutions for robotics
