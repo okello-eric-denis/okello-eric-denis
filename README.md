@@ -2,7 +2,7 @@
 
 I'm a Computer Engineer passionate about solving technical challenges through software development, automation, robotics, embedded systems, and AI. I thrive on innovation and enjoy creating efficient, scalable solutions that impact industries and communities.
 
-### 🔧 Technologies & Tools:
+### Technologies & Tools:
 - **Programming Languages**: JavaScript, Python, C, Java
 - **Frameworks and Libraries**: Next.js, Node.js, React.js, React Native, Vite, WordPress
 - **Databases**: MySQL, PostgreSQL, MongoDB
