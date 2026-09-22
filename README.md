@@ -1,6 +1,4 @@
-# Hello, I'm Eric Okello Denis 
-
-I'm a Computer Engineer passionate about solving technical challenges through software development, automation, robotics, embedded systems, and AI. I thrive on innovation and enjoy creating efficient, scalable solutions that impact industries and communities.
+A Computer Engineer passionate about solving technical challenges through software development, automation, robotics, embedded systems, and AI. I thrive on innovation and enjoy creating efficient, scalable solutions that impact industries and communities.
 
 ### Technologies & Tools:
 - **Programming Languages**: JavaScript, Python, C, Java
